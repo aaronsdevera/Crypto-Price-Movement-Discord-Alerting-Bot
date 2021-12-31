@@ -1,0 +1,10 @@
+{
+    "name":"<key name>",
+    "key":"<key id>",
+    "secret":"<key secret>",
+    "pass":"<key pass>",
+    "webhook":"<url>",
+    "time_window":60,
+    "delta":0.01,
+    "symbol":"ETHUSDTM"
+}
