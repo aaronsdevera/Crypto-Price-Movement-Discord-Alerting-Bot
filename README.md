@@ -6,14 +6,17 @@ By simple I mean
 * no databases
 * single config + program + calculation + ticker symbol
 
+## Data sources
 Currently supported price data:
 * [KuCoin Futures API](https://docs.kucoin.com/futures/#general)
 To do:
 * [KuCoin Ticker API](https://docs.kucoin.com/#get-symbols-list)
 * [Coinbase Price Data API](https://developers.coinbase.com/docs/wallet/guides/price-data)
 
+## Price movement detections
 Currently supported price movements:
 * % change over time
+
 To do:
 * ???
 
